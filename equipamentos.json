@@ -4,15 +4,12 @@
         "cliente": "Gedeon",
         "tipo": "Notebook",
         "defeito": "N\u00e3o liga",
-        "data_recebimento": "2025-03-06 23:03:40",
-        "status": "Entregue dia 02/07"
-    },
-    {
-        "id": 2,
-        "cliente": "Ricardo",
-        "tipo": "Notebook",
-        "defeito": "Formata\u00e7\u00e3o",
-        "data_recebimento": "2025-03-06 23:06:18",
-        "status": "Recebido"
+        "detalhes": {
+            "Marca": "",
+            "Modelo": "",
+            "Acompanha Carregador": false
+        },
+        "data_recebimento": "2025-03-06 23:32:53",
+        "status": "Entregue"
     }
 ]
